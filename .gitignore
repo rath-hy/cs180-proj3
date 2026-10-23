@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+backup/
+scheduled.png
+no scheduler.png
